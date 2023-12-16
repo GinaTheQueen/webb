@@ -1,0 +1,49 @@
+/* style.css */
+
+/* Reset some default styles for better consistency across browsers */
+body, h1, h2, h3, p {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Gaegu-Regular.ttf', sans-serif; 
+    line-height: 1.6;
+    color: #bf6aa8; 
+}
+
+/* Header styles */
+header {
+    background-color: #f8f8f8;
+    padding: 10px;
+    text-align: center;
+}
+
+h1 {
+    color: #c661b2;
+}
+
+/* Navigation styles */
+nav {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 15px;
+}
+
+/* Main content styles */
+main {
+    padding: 20px;
+}
+
+/* Footer styles */
+footer {
+    background-color: #f8f8f8;
+    padding: 10px;
+    text-align: center;
+}
